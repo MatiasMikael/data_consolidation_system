@@ -1,0 +1,14 @@
+[
+    {"id": 1, "kaupunki": "Helsinki", "kulutus": 1200},
+    {"id": 2, "kaupunki": "Espoo", "kulutus": 1500},
+    {"id": 3, "kaupunki": "Tampere", "kulutus": 1100},
+    {"id": 4, "kaupunki": "Vantaa", "kulutus": 1300},
+    {"id": 5, "kaupunki": "Oulu", "kulutus": 1400},
+    {"id": 6, "kaupunki": "Turku", "kulutus": 1250},
+    {"id": 7, "kaupunki": "Jyväskylä", "kulutus": 1350},
+    {"id": 8, "kaupunki": "Lahti", "kulutus": 1450},
+    {"id": 9, "kaupunki": "Kuopio", "kulutus": 1150},
+    {"id": 10, "kaupunki": "Pori", "kulutus": 1550}
+    
+  ]
+  

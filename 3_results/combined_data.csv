@@ -1,0 +1,11 @@
+id,nimi_x,ikä,tulot_x,kaupunki_x,kulutus_x,nimi_y,ika,tulot_y,kaupunki_y,kulutus_y
+1,Juhani,25,50000,Helsinki,1200,Juhani,25,50000.0,Helsinki,1200.0
+2,Maija,30,60000,Espoo,1500,Maija,30,60000.0,Espoo,1500.0
+3,Matti,22,45000,Tampere,1100,Matti,22,45000.0,Tampere,1100.0
+4,Anna,28,52000,Vantaa,1300,Anna,28,52000.0,Vantaa,1300.0
+5,Timo,35,70000,Oulu,1400,Timo,35,70000.0,Oulu,1400.0
+6,Liisa,27,48000,Turku,1250,Liisa,27,48000.0,Turku,1250.0
+7,Markus,31,62000,Jyväskylä,1350,Markus,31,62000.0,Jyvaskyla,1350.0
+8,Emma,26,54000,Lahti,1450,Emma,26,54000.0,Lahti,1450.0
+9,Kristian,29,58000,Kuopio,1150,Kristian,29,58000.0,Kuopio,1150.0
+10,Sofia,24,47000,Pori,1550,Sofia,24,47000.0,Pori,1550.0

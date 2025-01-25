@@ -1,0 +1,28 @@
+Fetching CSV data from 2_data\data1.csv...
+CSV data loaded successfully: 2_data\data1.csv
+Fetching JSON data from 2_data\data2.json...
+JSON data loaded successfully: 2_data\data2.json
+Connecting to the database...
+Connected successfully. Executing query...
+SQL data fetched successfully.
+CSV data preview:
+   id    nimi  ikä  tulot
+0   1  Juhani   25  50000
+1   2   Maija   30  60000
+2   3   Matti   22  45000
+3   4    Anna   28  52000
+4   5    Timo   35  70000
+JSON data preview:
+   id  kaupunki  kulutus
+0   1  Helsinki     1200
+1   2     Espoo     1500
+2   3   Tampere     1100
+3   4    Vantaa     1300
+4   5      Oulu     1400
+SQL data preview:
+   id    nimi  ika    tulot  kaupunki  kulutus
+0   1  Juhani   25  50000.0  Helsinki   1200.0
+1   2   Maija   30  60000.0     Espoo   1500.0
+2   3   Matti   22  45000.0   Tampere   1100.0
+3   4    Anna   28  52000.0    Vantaa   1300.0
+4   5    Timo   35  70000.0      Oulu   1400.0

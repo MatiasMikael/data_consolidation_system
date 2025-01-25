@@ -1,0 +1,8 @@
+Connecting to the database...
+Data fetched successfully:
+   id    nimi  ika    tulot  kaupunki  kulutus
+0   1  Juhani   25  50000.0  Helsinki   1200.0
+1   2   Maija   30  60000.0     Espoo   1500.0
+2   3   Matti   22  45000.0   Tampere   1100.0
+3   4    Anna   28  52000.0    Vantaa   1300.0
+4   5    Timo   35  70000.0      Oulu   1400.0
